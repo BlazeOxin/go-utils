@@ -1,6 +1,3 @@
-# go-utils
-A simple go utility package to perform general tasks
-
 # Utilities
 * <a href="#genHEX">Generate A random HEX</a>
 
