@@ -2,7 +2,7 @@
 A simple go utility package to perform general tasks
 
 # Actions
-* <a href="#genHEX">[Generate A random HEX]</a>
+* <a href="#genHEX">Generate A random HEX</a>
 
 # Details
 <h2 id="genHEX">Generate A random HEX</h2>
